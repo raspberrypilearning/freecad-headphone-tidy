@@ -5,7 +5,7 @@ Open FreeCAD and create a new file. Save this as Headphone_Tidy_Lower.
 --- /task ---
 
 --- task ---
-Open the **Part Design** menu and then create a **New Body** ![PartDesign_Body_Create_New.png](images/PartDesign_Body_Create_New_Small.png) and a **New Sketch** ![Sketcher_New_Sketch.png](images/Sketcher_New_Sketch_Small.png)
+Open the **Part Design** menu and then create a **New Body** ![PartDesign_Body_Create_New.png](images/PartDesign_Body_Create_New_Small.png) and a **New Sketch** ![Sketcher_New_Sketch.png](images/Sketcher_NewSketch_Small.png)
 --- /task ---
 
 --- task ---
