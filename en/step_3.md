@@ -16,4 +16,6 @@ Click on the **Revolution Tool** with the sketch selected.
 
 --- task ---
 You will want to make sure that the **Base Y axis** is axis around which the sketch is being revolved, then click **OK**
+
+![lofwer_revolved.png](image/lower_revolved.png)
 --- /task ---
