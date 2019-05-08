@@ -2,6 +2,8 @@
 
 In this project you will be using 3D parametric modeling software to design headphone tidy, and then if you have access to a 3D printer, you can print your model.
 
+The model will be made in two parts that can fit together.
+
 ### What you will make
 
 --- no-print ---
