@@ -33,7 +33,7 @@ Begin by clicking on each of the points and moving them around. In the image bel
 --- /task ---
 
 --- task ---
-Click on a point you want to attach, then hold down **Ctrl** and click on the point it is to be attached to. Then using the **Constraint Concentric Tool**
+Click on a point you want to attach, then hold down **Ctrl** and click on the point it is to be attached to. Then using the **Point Constraint Tool**
 ![Constraint_PointOnPoint.png](images/Constraint_PointOnPoint.png) connect the points.
 
 When you are finished all the points should be connected.
@@ -66,7 +66,7 @@ You can see a fully constrained sketch in the image below, with the dimensions s
 --- hints --- --- hint ---
 Here's a video showing the complete sketch process.
 <video width="640" height="360" controls>
-<source src="images/lower_sketch_tut.webm" type="video/webm">
+<source src="images/lower_part_1.webm" type="video/webm">
 Your browser does not support WebM video, try FireFox or Chrome
 </video>
 --- /hint --- --- /hints ---

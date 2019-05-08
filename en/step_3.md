@@ -17,5 +17,14 @@ Click on the **Revolution Tool** with the sketch selected.
 --- task ---
 You will want to make sure that the **Base Y axis** is axis around which the sketch is being revolved, then click **OK**
 
-![lofwer_revolved.png](image/lower_revolved.png)
+![lower_revolved.png](images/lower_revolved.png)
 --- /task ---
+
+--- hints --- --- hint ---
+Here is a video showing the complete process
+<video width="640" height="360" controls>
+<source src="images/lower_part_2.webm" type="video/webm">
+Your browser does not support WebM video, try FireFox or Chrome
+</video>
+
+--- /hint --- --- /hints ---

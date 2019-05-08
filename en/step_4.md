@@ -9,3 +9,12 @@ Repeat the previous two steps to create a new sketch with the dimensions shown i
 
 ![upper_revolved.png](images/upper_revolved.png)
 --- /task ---
+
+--- hints --- --- hint ---
+Here's a video showing the complete process
+<video width="640" height="360" controls>
+<source src="images/upper_part_1.webm" type="video/webm">
+Your browser does not support WebM video, try FireFox or Chrome
+</video>
+
+--- /hint --- --- /hints ---
