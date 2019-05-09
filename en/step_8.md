@@ -1,4 +1,4 @@
-## Exporting your dice
+## Exporting your tidy
 
 Now it's time to export your model for printing. There are a lot of different types of 3D printer, but most of them will accept `.stl` files or `.gcode` files. You'll probably find it easiest to export as an `.stl` file and then use an external program to slice this into a `.gcode` file.
 
