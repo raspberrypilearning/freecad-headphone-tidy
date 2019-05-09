@@ -30,4 +30,15 @@ Change the occurances to `6`
 ![polar_pattern.png](images/polar_pattern.png)
 --- /task ---
 
-Your lower section is now complete.
+--- task ---
+One part of your headphone tidy is now complete. Repeate those steps for the second part.
+--- /task ---
+
+--- hints --- --- hint ---
+Here's a video showing the complete process of creating the cutouts.
+<video width="640" height="360" controls>
+<source src="images/cutouts.webm" type="video/webm">
+Your browser does not support WebM video, try FireFox or Chrome
+</video>
+--- /hint --- --- /hints ---
+
