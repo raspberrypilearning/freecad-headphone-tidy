@@ -5,7 +5,7 @@ Now that you have the basic structure for the headphone tidy, you need to cut ho
 --- task ---
 On either the upper or lower section of your model, select the large flat plane on the underside of the tidy.
 
-![select_bottom.pngselect_bottom.png](images/select_bottom.pngselect_bottom.png)
+![select_bottom.png](images/select_bottom.png)
 --- /task ---
 
 --- task ---

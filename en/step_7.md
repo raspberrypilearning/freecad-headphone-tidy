@@ -7,7 +7,7 @@ Select your sketch and then click on the **Create Pocket** tool
 
 ![select_sketch.png](images/select_sketch.png)
 
-![PartDesign_Pocket.png](PartDesign_Pocket.png)
+![PartDesign_Pocket.png](images/PartDesign_Pocket.png)
 
 Any length over 3mm will cut through your model.
 --- /task ---
