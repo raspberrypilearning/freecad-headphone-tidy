@@ -20,15 +20,12 @@ Then load and print the file.
 ![Octoprint3](images/octoprint3.png)
 --- /task ---
 
-Your printer should start printing the dice, as soon as it has warmed up.
+Your printer should start printing the tidy, as soon as it has warmed up.
 
 ![printing](images/printing.gif)
 
 --- task ---
-You may find that the pips are a little faint on the dice. You could set the pocket size on your FreeCAD file to be a little deeper, or simply use a permanent marker to colour in the pips.
+Push the upper and lower sections together, and your tidy is complete.
 
-![printed_dice1](images/printed_dice_1.jpg)
-
-![printed_dice2](images/printed_dice_2.jpg)
-
+![finished_tidy.png](images/finished_tidy.png)
 --- /task ---
