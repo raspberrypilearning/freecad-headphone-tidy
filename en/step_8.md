@@ -18,8 +18,6 @@ Open Cura from you application menu.
 
 --- task ---
 Use the **File** menu to open your `upper.stl` and `lower.stl` file.
-
-![Cura2](images/cura2.png)
 --- /task ---
 
 --- task ---
