@@ -24,7 +24,7 @@ draw the following shape. Don't worry about being too accurate at this stage.
 ![start_shape.png](images/start_shape.png)
 --- /task ---
 
-Now you have the basic shape you can *constrain* your sketch. When drawing sketches, FreeCAD will often intelligently apply constraints for you. This will happen if you accurately click on an existing point for instance. However, often you will have to investigate your sketch to see which points, lines and arcs need to be constrained.
+Now you have the basic shape you can *constrain* your sketch. When drawing sketches, FreeCAD will often intelligently apply constraints for you (although on MacOS this can be buggy). This will happen if you accurately click on an existing point for instance. However, often you will have to investigate your sketch to see which points, lines and arcs need to be constrained.
 
 --- task ---
 Begin by clicking on each of the points and moving them around. In the image below you can see that two lines are unattached to the main shape.
