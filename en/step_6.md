@@ -32,7 +32,7 @@ Use the **Constrain Point on Object** tool to afix the lower two points of the r
 --- /task ---
 
 --- task ---
-You can select the lower line of the rectangle and then delete it using your **Delete** key.
+You can select the lower line of the rectangle and then delete it using your **Delete** key (**Fn Backspace** on MacOS).
 
 ![delete_line.png](images/delete_line.png)
 --- /task ---
