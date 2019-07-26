@@ -11,7 +11,7 @@ Repeat the previous two steps to create a new sketch with the dimensions shown i
 --- /task ---
 
 --- hints --- --- hint ---
-Here is a video showing the complete process:
+Here is a video that shows the complete process:
 <video width="640" height="360" controls>
 <source src="images/upper_part_1.webm" type="video/webm">
 Your browser does not support WebM video — try Firefox or Chrome.
