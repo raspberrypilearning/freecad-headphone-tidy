@@ -1,6 +1,6 @@
 ## Sketch and revolve the upper part
 
-You have now made the basic structure of the lower piece of the headphone tidy. In this step, you will make the upper piece.
+You have now made the basic structure of the lower part of the headphone tidy. In this step, you will make the upper part.
 
 --- task ---
 Repeat the previous two steps to create a new sketch with the dimensions shown in the diagram below, and then revolve it around the Y axis.
