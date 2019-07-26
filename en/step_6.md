@@ -1,4 +1,4 @@
-## Cable cut-out sketch
+## Sketch the cable cut-out
 
 Now that you have the basic structure for the headphone tidy, you need to cut holes into the upper and lower sections. This is where the cable will be placed.
 
