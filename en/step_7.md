@@ -1,4 +1,4 @@
-## Polar pockets
+## Create polar pockets
 
 You now have the sketch for the cut-out. In this step, you will create a pocket and repeat the pocket in a radial pattern.
 
