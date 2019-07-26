@@ -31,7 +31,7 @@ Change the **occurrences** to `6`.
 --- /task ---
 
 --- task ---
-You have now completed one part of your headphone tidy. Repeat those steps for the second part.
+You have now completed one part of your headphone tidy. Repeat those steps to create the second part.
 --- /task ---
 
 --- hints --- --- hint ---
