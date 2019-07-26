@@ -64,7 +64,7 @@ Your sketch should look like the fully constrained sketch in the image below. It
 
 --- no-print ---
 --- hints --- --- hint ---
-Here's a video which shows the complete sketch process:
+Here is a video that shows the complete sketch process:
 <video width="640" height="360" controls>
 <source src="images/lower_part_1.webm" type="video/webm">
 Your browser does not support WebM video — try Firefox or Chrome.
