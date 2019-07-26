@@ -18,13 +18,14 @@ title: What you will need
 ---
 ### Hardware
 
-+ A computer that can run FreeCAD
++ A computer capable of running FreeCAD
 
 ### Software
 
 + [FreeCAD](https://www.freecadweb.org/)
-+ Optional: [Cura](https://ultimaker.com/en/resources/51943-installation-ultimaker-cura) if you need to export your model to a `.gcode` fil
-+ Optional: [Octopi](https://octoprint.org/download/) for managing your 3D printer
++ Optional:
+  + [Cura](https://ultimaker.com/en/resources/51943-installation-ultimaker-cura) if you need to export your model to a `.gcode` file
+  + [Octopi](https://octoprint.org/download/) for managing your 3D printer
 
 --- /collapse ---
 
