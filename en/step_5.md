@@ -1,6 +1,6 @@
-## Cutting a hole.
+## Cut a hole
 
-You need to cut a hole in the upper part of your headphone tidy, so that the lower part can fit inside it.
+You need to cut a hole in the upper part of your headphone tidy so that the lower part can fit inside it.
 
 --- task ---
 Select the uppermost face of the model.
@@ -9,13 +9,13 @@ Select the uppermost face of the model.
 --- /task ---
 
 --- task ---
-Use the **Hole Tool** to cut a hole in the face and bring up the **Hole parameters** menu.
+Use the **Hole tool** to cut a hole in the face and open the **Hole parameters** menu.
 
 ![PartDesign_Hole.png](images/PartDesign_Hole.png)
 --- /task ---
 
 --- task ---
-You want to set the hole **diameter** to `16mm` the **depth** to `13mm` and the **drill type** to `flat`, then click on **OK**
+Set the hole **diameter** to `16mm`, the **depth** to `13mm`, and the **drill type** to `Flat`, then click on **OK**.
 
 ![hole_parameters.png](images/hole_parameters.png)
 
@@ -23,10 +23,10 @@ You want to set the hole **diameter** to `16mm` the **depth** to `13mm` and the 
 --- /task ---
 
 --- hints --- --- hint ---
-You can see a video of the hole being made here.
+You can watch a video of the hole being made here:
 <video width="640" height="360" controls>
 <source src="images/upper_part_2.webm" type="video/webm">
-Your browser does not support WebM video, try FireFox or Chrome
+Your browser does not support WebM video — try Firefox or Chrome.
 </video>
 
 --- /hint --- --- /hints ---
