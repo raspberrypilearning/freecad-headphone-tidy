@@ -1,8 +1,8 @@
 ## Introduction
 
-In this project you will be using 3D parametric modeling software to design headphone tidy, and then if you have access to a 3D printer, you can print your model.
+In this project, you will use 3D parametric modelling software to design a headphone tidy. If you have access to a 3D printer, you can print your model.
 
-The model will be made in two parts that can fit together.
+The model will be made of two parts that fit together.
 
 ### What you will make
 
@@ -18,13 +18,13 @@ title: What you will need
 ---
 ### Hardware
 
-+ A computer capable of running FreeCAD
++ A computer that can run FreeCAD
 
 ### Software
 
 + [FreeCAD](https://www.freecadweb.org/)
-+ Optional [Cura](https://ultimaker.com/en/resources/51943-installation-ultimaker-cura) if you need to export your model to a `.gcode` file.
-+ Optional [Octopi](https://octoprint.org/download/) for managing your 3D printer.
++ Optional: [Cura](https://ultimaker.com/en/resources/51943-installation-ultimaker-cura) if you need to export your model to a `.gcode` fil
++ Optional: [Octopi](https://octoprint.org/download/) for managing your 3D printer
 
 --- /collapse ---
 
@@ -33,9 +33,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Know how to create 3D models from sketches
-+ Know how to fully constrain a sketch
-+ Know how to use the polar pattern tool
++ How to create 3D models from sketches
++ How to fully constrain a sketch
++ How to use the polar pattern tool in FreeCAD
 
 --- /collapse ---
 
