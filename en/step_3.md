@@ -21,10 +21,10 @@ Make sure that the **Base Y axis** is the axis around which the sketch will be r
 --- /task ---
 
 --- hints --- --- hint ---
-Here is a video showing the complete process:
+Here is a video that shows the complete process:
 <video width="640" height="360" controls>
 <source src="images/lower_part_2.webm" type="video/webm">
-Your browser does not support WebM video — try FireFox or Chrome.
+Your browser does not support WebM video — try Firefox or Chrome.
 </video>
 
 --- /hint --- --- /hints ---
