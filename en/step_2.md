@@ -1,4 +1,4 @@
-## The initial sketch
+## Create the initial sketch
 
 --- task ---
 Open FreeCAD and create a new file. Save this as `Headphone_Tidy_Lower`.
