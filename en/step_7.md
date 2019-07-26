@@ -1,9 +1,9 @@
 ## Polar pockets
 
-Now that you have the sketch for the cutout, you can create a pocket and repeat the pocket in a radial pattern.
+You now have the sketch for the cut-out. In this step, you will create a pocket and repeat the pocket in a radial pattern.
 
 --- task ---
-Select your sketch and then click on the **Create Pocket** tool
+Select your sketch, then click on the **Create pocket** icon.
 
 ![select_sketch.png](images/select_sketch.png)
 
@@ -19,26 +19,26 @@ Select the pocket.
 --- /task ---
 
 --- task ---
-Then click the **Polar Pattern** tool.
+Then, click on the **Polar pattern tool** icon.
 
 ![PartDesign_PolarPattern.png](images/PartDesign_PolarPattern.png)
 --- /task ---
 
 --- task ---
-Change the occurances to `6`
+Change the **occurrences** to `6`.
 
 ![polar_pattern.png](images/polar_pattern.png)
 --- /task ---
 
 --- task ---
-One part of your headphone tidy is now complete. Repeate those steps for the second part.
+You have now completed one part of your headphone tidy. Repeat those steps for the second part.
 --- /task ---
 
 --- hints --- --- hint ---
-Here's a video showing the complete process of creating the cutouts.
+Here is a video that shows the complete process of creating the cut-outs.
 <video width="640" height="360" controls>
 <source src="images/cutouts.webm" type="video/webm">
-Your browser does not support WebM video, try FireFox or Chrome
+Your browser does not support WebM video — try Firefox or Chrome.
 </video>
 --- /hint --- --- /hints ---
 
