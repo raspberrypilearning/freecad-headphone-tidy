@@ -1,4 +1,4 @@
-## Print the headphone tidy
+## Print your headphone tidy
 
 Instructions can't be provided for all 3D printer models. The example here uses the [Octoprint](https://octoprint.org/) software to print the headphone tidy on a Lulzbot TAZ 6.
 
