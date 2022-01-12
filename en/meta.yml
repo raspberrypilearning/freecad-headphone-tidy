@@ -1,18 +1,21 @@
+---
 title: Make a headphone tidy with FreeCAD
 hero_image: images/banner.png
 description: Design and 3D print a headphone tidy with FreeCAD
 version: 4
 listed: true
 copyedit: true
-last_tested: "2019-05-08"
+last_tested: '2019-05-08'
 steps:
-  - title: Introduction
-  - title: Create the initial sketch
-  - title: Revolve the sketch
-  - title: Sketch and revolve the upper part
-  - title: Cut a hole
-  - title: Sketch the cable cut-out
-  - title: Create polar pockets
-  - title: Export your headphone tidy
-  - title: Print your headphone tidy
-  - title: What next?  
+- title: Introduction
+  completion: engaged
+- title: Create the initial sketch
+- title: Revolve the sketch
+- title: Sketch and revolve the upper part
+- title: Cut a hole
+- title: Sketch the cable cut-out
+- title: Create polar pockets
+- title: Export your headphone tidy
+  completion: internal
+- title: Print your headphone tidy
+- title: What next?
