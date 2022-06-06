@@ -8,14 +8,16 @@ copyedit: true
 last_tested: '2019-05-08'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Create the initial sketch
 - title: Revolve the sketch
+  completion:
+  - engaged
 - title: Sketch and revolve the upper part
 - title: Cut a hole
 - title: Sketch the cable cut-out
 - title: Create polar pockets
 - title: Export your headphone tidy
-  completion: internal
 - title: Print your headphone tidy
+  completion:
+  - internal
 - title: What next?
