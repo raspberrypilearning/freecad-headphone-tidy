@@ -63,11 +63,14 @@ Your sketch should look like the fully constrained sketch in the image below. It
 --- /task ---
 
 --- no-print ---
---- hints --- --- hint ---
+--- hints ---
+--- hint ---
 Here is a video that shows the complete sketch process:
 <video width="640" height="360" controls>
 <source src="images/lower_part_1.webm" type="video/webm">
 Your browser does not support WebM video — try Firefox or Chrome.
 </video>
---- /hint --- --- /hints ---
+--- /hint ---
+--- /hints ---
+
 --- /no-print ---
