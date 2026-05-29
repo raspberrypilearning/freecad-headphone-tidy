@@ -34,11 +34,14 @@ Change the **occurrences** to `6`.
 You have now completed one part of your headphone tidy. Repeat those steps to create the second part.
 --- /task ---
 
---- hints --- --- hint ---
+--- hints ---
+--- hint ---
 Here is a video that shows the complete process of creating the cut-outs.
 <video width="640" height="360" controls>
 <source src="images/cutouts.webm" type="video/webm">
 Your browser does not support WebM video — try Firefox or Chrome.
 </video>
---- /hint --- --- /hints ---
+--- /hint ---
+--- /hints ---
+
 

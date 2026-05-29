@@ -22,11 +22,14 @@ Set the hole **diameter** to `16mm`, the **depth** to `13mm`, and the **drill ty
 ![hole.png](images/hole.png)
 --- /task ---
 
---- hints --- --- hint ---
+--- hints ---
+--- hint ---
 You can watch a video of the hole being made here:
 <video width="640" height="360" controls>
 <source src="images/upper_part_2.webm" type="video/webm">
 Your browser does not support WebM video — try Firefox or Chrome.
 </video>
 
---- /hint --- --- /hints ---
+--- /hint ---
+--- /hints ---
+
